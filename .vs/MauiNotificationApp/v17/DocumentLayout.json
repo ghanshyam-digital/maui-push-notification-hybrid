@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Demo-Notification\\maui-push-notification-hybrid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\google-services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:google-services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\.nuget\\packages\\xamarin.googleplayservices.basement\\118.3.0.2\\buildTransitive\\net8.0-android34.0\\Xamarin.GooglePlayServices.Basement.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\platforms\\android\\resources\\values\\strings.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:platforms\\android\\resources\\values\\strings.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\components\\pages\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:components\\pages\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\services\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:services\\pushnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\mauinotificationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:mauinotificationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\platforms\\android\\crossfirebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:platforms\\android\\crossfirebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\mauinotificationapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:mauinotificationapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|d:\\demo-notification\\maui-push-notification-hybrid\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{87213CE0-B853-49A8-A06A-FC1F87F4A691}|MauiNotificationApp.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xamarin.GooglePlayServices.Basement.targets",
+              "DocumentMoniker": "C:\\Users\\Admin\\.nuget\\packages\\xamarin.googleplayservices.basement\\118.3.0.2\\buildTransitive\\net8.0-android34.0\\Xamarin.GooglePlayServices.Basement.targets",
+              "ToolTip": "C:\\Users\\Admin\\.nuget\\packages\\xamarin.googleplayservices.basement\\118.3.0.2\\buildTransitive\\net8.0-android34.0\\Xamarin.GooglePlayServices.Basement.targets",
+              "ViewState": "AgIAAC0AAAAAAAAAAADgv08AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-10T06:10:17.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "google-services.json",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\google-services.json",
+              "RelativeDocumentMoniker": "google-services.json",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\google-services.json",
+              "RelativeToolTip": "google-services.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T05:31:25.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Pages\\App.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\App.razor",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Pages\\App.razor",
+              "RelativeToolTip": "Components\\Pages\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T05:04:51.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PushNotification.cs",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Services\\PushNotification.cs",
+              "RelativeDocumentMoniker": "Services\\PushNotification.cs",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Services\\PushNotification.cs",
+              "RelativeToolTip": "Services\\PushNotification.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:23:08.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:35:56.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T11:29:20.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-01T10:13:45.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "strings.xml",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\Resources\\values\\strings.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\Resources\\values\\strings.xml",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\Resources\\values\\strings.xml",
+              "RelativeToolTip": "Platforms\\Android\\Resources\\values\\strings.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-01T09:02:19.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:51:02.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T12:59:13.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T12:52:18.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T12:52:16.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T12:48:20.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T12:40:32.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T12:37:40.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T12:37:06.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:36:30.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrossFirebase.cs",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\CrossFirebase.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\CrossFirebase.cs",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\CrossFirebase.cs",
+              "RelativeToolTip": "Platforms\\Android\\CrossFirebase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:34:59.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:29:57.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:27:41.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:22:57.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-04-30T12:20:18.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiNotificationApp.csproj",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MauiNotificationApp.csproj",
+              "RelativeDocumentMoniker": "MauiNotificationApp.csproj",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MauiNotificationApp.csproj",
+              "RelativeToolTip": "MauiNotificationApp.csproj",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T12:20:13.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MauiNotificationApp",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MauiNotificationApp.csproj",
+              "RelativeDocumentMoniker": "MauiNotificationApp.csproj",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\MauiNotificationApp.csproj",
+              "RelativeToolTip": "MauiNotificationApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T12:18:13.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Demo-Notification\\maui-push-notification-hybrid\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T12:16:38.963Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
