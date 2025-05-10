@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace MauiNotificationApp
+namespace MauiPushNotificationHybrid
 {
     public class Program
     {

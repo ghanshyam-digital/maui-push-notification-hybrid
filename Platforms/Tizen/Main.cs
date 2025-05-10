@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace MauiNotificationApp
+namespace MauiPushNotificationHybrid
 {
     internal class Program : MauiApplication
     {

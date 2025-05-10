@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "Hash": "ELej7s77wD3dvb7pMIOvXx9UZR/KwSHrvyGlJ8ETbJU=",
-  "Source": "MauiNotificationApp",
+  "Hash": "I78w4TvpRWIMDGEFQvCyjed5ruP8aww6AihoLxmFpk4=",
+  "Source": "MauiPushNotificationHybrid",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "MauiNotificationApp\\wwwroot",
-      "Source": "MauiNotificationApp",
+      "Name": "MauiPushNotificationHybrid\\wwwroot",
+      "Source": "MauiPushNotificationHybrid",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
@@ -17,71 +17,8 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3jsuqrz34j-014al2j6e0.gz",
-      "SourceId": "MauiNotificationApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=014al2j6e0}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\index.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "2r46a05qno",
-      "Integrity": "cojGdj33YwDERFG6++zBObR4YZDRbZCxan02g3ssSPg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\index.html"
-    },
-    {
-      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\etnl4xxjls-8inm30yfxf.gz",
-      "SourceId": "MauiNotificationApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "fbl5ivwo6k",
-      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fx0wg6fp5v-kdneralgu4.gz",
-      "SourceId": "MauiNotificationApp",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "MauiNotificationApp#[.{fingerprint=kdneralgu4}]!.bundle.scp.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiNotificationApp.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "o7pxiblj3m",
-      "Integrity": "5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiNotificationApp.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\l1xfz2fy4v-6gzpyzhau4.gz",
-      "SourceId": "MauiNotificationApp",
+      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3gj5334svo-6gzpyzhau4.gz",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
@@ -94,15 +31,15 @@
       "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "joqzyw7ssu",
-      "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
+      "Fingerprint": "7l51xal3e9",
+      "Integrity": "dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\p1t1p49m9x-e5tk7yf482.gz",
-      "SourceId": "MauiNotificationApp",
+      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\dqebllbz9u-e5tk7yf482.gz",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
@@ -115,40 +52,103 @@
       "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9sb0w9jnhl",
-      "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
+      "Fingerprint": "qfor6zdeny",
+      "Integrity": "ismDfJHkNHfoqxdRjvM7D0cvQOeIn31cbNUC6dB4m9A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\app.css"
     },
     {
-      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pr8kvs4pa3-kdneralgu4.gz",
-      "SourceId": "MauiNotificationApp",
+      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gf06zwasmf-h3da67rcgk.gz",
+      "SourceId": "MauiPushNotificationHybrid",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=h3da67rcgk}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vnky8v4yzs",
+      "Integrity": "5b4Mdc1rCf/HakXC3pzlOrFDoGEyVa+h5JdplNuLRUY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\od5lei8gud-z74f1m0qpg.gz",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "MauiNotificationApp#[.{fingerprint=kdneralgu4}]?.styles.css.gz",
+      "RelativePath": "MauiPushNotificationHybrid#[.{fingerprint=z74f1m0qpg}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiNotificationApp.styles.css",
+      "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiPushNotificationHybrid.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o7pxiblj3m",
-      "Integrity": "5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=",
+      "Fingerprint": "bbuq86v1ke",
+      "Integrity": "9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiNotificationApp.styles.css"
+      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiPushNotificationHybrid.styles.css"
     },
     {
-      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiNotificationApp.styles.css",
-      "SourceId": "MauiNotificationApp",
+      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pxq9m17u1t-8inm30yfxf.gz",
+      "SourceId": "MauiPushNotificationHybrid",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m532s4naxw",
+      "Integrity": "epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\voehws63o3-z74f1m0qpg.gz",
+      "SourceId": "MauiPushNotificationHybrid",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "MauiPushNotificationHybrid#[.{fingerprint=z74f1m0qpg}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiPushNotificationHybrid.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bbuq86v1ke",
+      "Integrity": "9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiPushNotificationHybrid.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiPushNotificationHybrid.styles.css",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
-      "RelativePath": "MauiNotificationApp#[.{fingerprint}]?.styles.css",
+      "RelativePath": "MauiPushNotificationHybrid#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -157,19 +157,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "kdneralgu4",
-      "Integrity": "KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=",
+      "Fingerprint": "z74f1m0qpg",
+      "Integrity": "H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiNotificationApp.styles.css"
+      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiPushNotificationHybrid.styles.css"
     },
     {
-      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiNotificationApp.bundle.scp.css",
-      "SourceId": "MauiNotificationApp",
+      "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiPushNotificationHybrid.bundle.scp.css",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
-      "RelativePath": "MauiNotificationApp#[.{fingerprint}]!.bundle.scp.css",
+      "RelativePath": "MauiPushNotificationHybrid#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -178,15 +178,15 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "kdneralgu4",
-      "Integrity": "KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=",
+      "Fingerprint": "z74f1m0qpg",
+      "Integrity": "H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiNotificationApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiPushNotificationHybrid.bundle.scp.css"
     },
     {
       "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\app.css",
-      "SourceId": "MauiNotificationApp",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\",
       "BasePath": "/",
@@ -207,7 +207,7 @@
     },
     {
       "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "SourceId": "MauiNotificationApp",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\",
       "BasePath": "/",
@@ -228,7 +228,7 @@
     },
     {
       "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "SourceId": "MauiNotificationApp",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\",
       "BasePath": "/",
@@ -249,7 +249,7 @@
     },
     {
       "Identity": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\index.html",
-      "SourceId": "MauiNotificationApp",
+      "SourceId": "MauiPushNotificationHybrid",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\",
       "BasePath": "/",
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "014al2j6e0",
-      "Integrity": "5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE=",
+      "Fingerprint": "h3da67rcgk",
+      "Integrity": "M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -272,12 +272,12 @@
   "Endpoints": [
     {
       "Route": "css/app.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\p1t1p49m9x-e5tk7yf482.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\dqebllbz9u-e5tk7yf482.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000571102227"
+          "Quality": "0.000556173526"
         }
       ],
       "ResponseHeaders": [
@@ -287,15 +287,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1750"
+          "Value": "1797"
         },
         {
           "Name": "ETag",
-          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+          "Value": "\"ismDfJHkNHfoqxdRjvM7D0cvQOeIn31cbNUC6dB4m9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -348,7 +348,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -364,7 +364,7 @@
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\p1t1p49m9x-e5tk7yf482.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\dqebllbz9u-e5tk7yf482.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -373,7 +373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1750"
+          "Value": "1797"
         },
         {
           "Name": "Content-Type",
@@ -381,11 +381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+          "Value": "\"ismDfJHkNHfoqxdRjvM7D0cvQOeIn31cbNUC6dB4m9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -403,18 +403,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+          "Value": "sha256-ismDfJHkNHfoqxdRjvM7D0cvQOeIn31cbNUC6dB4m9A="
         }
       ]
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\p1t1p49m9x-e5tk7yf482.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\dqebllbz9u-e5tk7yf482.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000571102227"
+          "Quality": "0.000556173526"
         }
       ],
       "ResponseHeaders": [
@@ -424,15 +424,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1750"
+          "Value": "1797"
         },
         {
           "Name": "ETag",
-          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+          "Value": "\"ismDfJHkNHfoqxdRjvM7D0cvQOeIn31cbNUC6dB4m9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -493,7 +493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -517,7 +517,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\p1t1p49m9x-e5tk7yf482.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\dqebllbz9u-e5tk7yf482.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -526,7 +526,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1750"
+          "Value": "1797"
         },
         {
           "Name": "Content-Type",
@@ -534,11 +534,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=\""
+          "Value": "\"ismDfJHkNHfoqxdRjvM7D0cvQOeIn31cbNUC6dB4m9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -564,18 +564,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw="
+          "Value": "sha256-ismDfJHkNHfoqxdRjvM7D0cvQOeIn31cbNUC6dB4m9A="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\l1xfz2fy4v-6gzpyzhau4.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3gj5334svo-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000041844506"
+          "Quality": "0.000041912905"
         }
       ],
       "ResponseHeaders": [
@@ -585,15 +585,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23897"
+          "Value": "23858"
         },
         {
           "Name": "ETag",
-          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -654,7 +654,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -678,7 +678,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\l1xfz2fy4v-6gzpyzhau4.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3gj5334svo-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -687,7 +687,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23897"
+          "Value": "23858"
         },
         {
           "Name": "Content-Type",
@@ -695,11 +695,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -725,18 +725,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+          "Value": "sha256-dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\l1xfz2fy4v-6gzpyzhau4.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3gj5334svo-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000041844506"
+          "Quality": "0.000041912905"
         }
       ],
       "ResponseHeaders": [
@@ -746,15 +746,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23897"
+          "Value": "23858"
         },
         {
           "Name": "ETag",
-          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -807,7 +807,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -823,12 +823,12 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\etnl4xxjls-8inm30yfxf.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pxq9m17u1t-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000013350065"
+          "Quality": "0.000013397104"
         }
       ],
       "ResponseHeaders": [
@@ -838,15 +838,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74905"
+          "Value": "74642"
         },
         {
           "Name": "ETag",
-          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -907,7 +907,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -931,7 +931,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\etnl4xxjls-8inm30yfxf.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pxq9m17u1t-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -940,7 +940,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74905"
+          "Value": "74642"
         },
         {
           "Name": "Content-Type",
@@ -948,11 +948,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -978,13 +978,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\l1xfz2fy4v-6gzpyzhau4.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3gj5334svo-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -993,7 +993,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23897"
+          "Value": "23858"
         },
         {
           "Name": "Content-Type",
@@ -1001,11 +1001,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=\""
+          "Value": "\"dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1023,18 +1023,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c="
+          "Value": "sha256-dfRdV3FWJNHUyN/ZTK8eRHslFtdOjQxpi1BEcWXtMR8="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\etnl4xxjls-8inm30yfxf.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pxq9m17u1t-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000013350065"
+          "Quality": "0.000013397104"
         }
       ],
       "ResponseHeaders": [
@@ -1044,15 +1044,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74905"
+          "Value": "74642"
         },
         {
           "Name": "ETag",
-          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1105,7 +1105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1121,7 +1121,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\etnl4xxjls-8inm30yfxf.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pxq9m17u1t-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1130,7 +1130,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "74905"
+          "Value": "74642"
         },
         {
           "Name": "Content-Type",
@@ -1138,11 +1138,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+          "Value": "\"epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1160,18 +1160,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+          "Value": "sha256-epiz+IkftKdCVrNwM3M3b4/Co3mxoqDpjOfMrHfv/7E="
         }
       ]
     },
     {
-      "Route": "index.014al2j6e0.html",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3jsuqrz34j-014al2j6e0.gz",
+      "Route": "index.h3da67rcgk.html",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gf06zwasmf-h3da67rcgk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002242152466"
+          "Quality": "0.002207505519"
         }
       ],
       "ResponseHeaders": [
@@ -1181,15 +1181,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "452"
         },
         {
           "Name": "ETag",
-          "Value": "\"cojGdj33YwDERFG6++zBObR4YZDRbZCxan02g3ssSPg=\""
+          "Value": "\"5b4Mdc1rCf/HakXC3pzlOrFDoGEyVa+h5JdplNuLRUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1209,13 +1209,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE=\""
+          "Value": "W/\"M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "014al2j6e0"
+          "Value": "h3da67rcgk"
         },
         {
           "Name": "label",
@@ -1223,12 +1223,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE="
+          "Value": "sha256-M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI="
         }
       ]
     },
     {
-      "Route": "index.014al2j6e0.html",
+      "Route": "index.h3da67rcgk.html",
       "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1238,7 +1238,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "871"
+          "Value": "885"
         },
         {
           "Name": "Content-Type",
@@ -1246,11 +1246,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE=\""
+          "Value": "\"M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1260,7 +1260,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "014al2j6e0"
+          "Value": "h3da67rcgk"
         },
         {
           "Name": "label",
@@ -1268,13 +1268,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE="
+          "Value": "sha256-M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI="
         }
       ]
     },
     {
-      "Route": "index.014al2j6e0.html.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3jsuqrz34j-014al2j6e0.gz",
+      "Route": "index.h3da67rcgk.html.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gf06zwasmf-h3da67rcgk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1283,7 +1283,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "452"
         },
         {
           "Name": "Content-Type",
@@ -1291,11 +1291,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cojGdj33YwDERFG6++zBObR4YZDRbZCxan02g3ssSPg=\""
+          "Value": "\"5b4Mdc1rCf/HakXC3pzlOrFDoGEyVa+h5JdplNuLRUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1313,7 +1313,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "014al2j6e0"
+          "Value": "h3da67rcgk"
         },
         {
           "Name": "label",
@@ -1321,18 +1321,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cojGdj33YwDERFG6++zBObR4YZDRbZCxan02g3ssSPg="
+          "Value": "sha256-5b4Mdc1rCf/HakXC3pzlOrFDoGEyVa+h5JdplNuLRUY="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3jsuqrz34j-014al2j6e0.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gf06zwasmf-h3da67rcgk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002242152466"
+          "Quality": "0.002207505519"
         }
       ],
       "ResponseHeaders": [
@@ -1342,15 +1342,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "452"
         },
         {
           "Name": "ETag",
-          "Value": "\"cojGdj33YwDERFG6++zBObR4YZDRbZCxan02g3ssSPg=\""
+          "Value": "\"5b4Mdc1rCf/HakXC3pzlOrFDoGEyVa+h5JdplNuLRUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1370,13 +1370,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE=\""
+          "Value": "W/\"M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE="
+          "Value": "sha256-M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI="
         }
       ]
     },
@@ -1391,7 +1391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "871"
+          "Value": "885"
         },
         {
           "Name": "Content-Type",
@@ -1399,11 +1399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE=\""
+          "Value": "\"M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1413,13 +1413,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5F8YWSPUtlYARH4UVx3xXl5ZBEzzzefkLewgLMLUrcE="
+          "Value": "sha256-M62ivuOqH0LDJlLiUU8beIhrEgfeOKcl4tjgTGxj6oI="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\3jsuqrz34j-014al2j6e0.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gf06zwasmf-h3da67rcgk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1428,7 +1428,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "445"
+          "Value": "452"
         },
         {
           "Name": "Content-Type",
@@ -1436,11 +1436,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cojGdj33YwDERFG6++zBObR4YZDRbZCxan02g3ssSPg=\""
+          "Value": "\"5b4Mdc1rCf/HakXC3pzlOrFDoGEyVa+h5JdplNuLRUY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 12:16:34 GMT"
+          "Value": "Sat, 10 May 2025 06:37:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1458,18 +1458,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cojGdj33YwDERFG6++zBObR4YZDRbZCxan02g3ssSPg="
+          "Value": "sha256-5b4Mdc1rCf/HakXC3pzlOrFDoGEyVa+h5JdplNuLRUY="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.bundle.scp.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fx0wg6fp5v-kdneralgu4.gz",
+      "Route": "MauiPushNotificationHybrid.bundle.scp.css",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\voehws63o3-z74f1m0qpg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000615006150"
+          "Quality": "0.000613873542"
         }
       ],
       "ResponseHeaders": [
@@ -1479,15 +1479,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1625"
+          "Value": "1628"
         },
         {
           "Name": "ETag",
-          "Value": "\"5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=\""
+          "Value": "\"9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1507,19 +1507,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=\""
+          "Value": "W/\"H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368="
+          "Value": "sha256-H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.bundle.scp.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiNotificationApp.bundle.scp.css",
+      "Route": "MauiPushNotificationHybrid.bundle.scp.css",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiPushNotificationHybrid.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1536,11 +1536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=\""
+          "Value": "\"H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1550,13 +1550,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368="
+          "Value": "sha256-H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.bundle.scp.css.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fx0wg6fp5v-kdneralgu4.gz",
+      "Route": "MauiPushNotificationHybrid.bundle.scp.css.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\voehws63o3-z74f1m0qpg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1565,7 +1565,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1625"
+          "Value": "1628"
         },
         {
           "Name": "Content-Type",
@@ -1573,11 +1573,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=\""
+          "Value": "\"9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1595,18 +1595,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc="
+          "Value": "sha256-9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.kdneralgu4.bundle.scp.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fx0wg6fp5v-kdneralgu4.gz",
+      "Route": "MauiPushNotificationHybrid.styles.css",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\od5lei8gud-z74f1m0qpg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000615006150"
+          "Quality": "0.000613873542"
         }
       ],
       "ResponseHeaders": [
@@ -1616,19 +1616,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1625"
+          "Value": "1628"
         },
         {
           "Name": "ETag",
-          "Value": "\"5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=\""
+          "Value": "\"9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -1644,27 +1644,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=\""
+          "Value": "W/\"H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "kdneralgu4"
-        },
-        {
-          "Name": "label",
-          "Value": "MauiNotificationApp.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368="
+          "Value": "sha256-H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.kdneralgu4.bundle.scp.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiNotificationApp.bundle.scp.css",
+      "Route": "MauiPushNotificationHybrid.styles.css",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiPushNotificationHybrid.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1681,35 +1673,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=\""
+          "Value": "\"H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "kdneralgu4"
-        },
-        {
-          "Name": "label",
-          "Value": "MauiNotificationApp.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368="
+          "Value": "sha256-H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.kdneralgu4.bundle.scp.css.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\fx0wg6fp5v-kdneralgu4.gz",
+      "Route": "MauiPushNotificationHybrid.styles.css.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\od5lei8gud-z74f1m0qpg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1718,7 +1702,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1625"
+          "Value": "1628"
         },
         {
           "Name": "Content-Type",
@@ -1726,15 +1710,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=\""
+          "Value": "\"9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -1747,27 +1731,19 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "kdneralgu4"
-        },
-        {
-          "Name": "label",
-          "Value": "MauiNotificationApp.bundle.scp.css.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc="
+          "Value": "sha256-9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.kdneralgu4.styles.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pr8kvs4pa3-kdneralgu4.gz",
+      "Route": "MauiPushNotificationHybrid.z74f1m0qpg.bundle.scp.css",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\voehws63o3-z74f1m0qpg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000615006150"
+          "Quality": "0.000613873542"
         }
       ],
       "ResponseHeaders": [
@@ -1777,15 +1753,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1625"
+          "Value": "1628"
         },
         {
           "Name": "ETag",
-          "Value": "\"5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=\""
+          "Value": "\"9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1805,27 +1781,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=\""
+          "Value": "W/\"H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kdneralgu4"
+          "Value": "z74f1m0qpg"
         },
         {
           "Name": "label",
-          "Value": "MauiNotificationApp.styles.css"
+          "Value": "MauiPushNotificationHybrid.bundle.scp.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368="
+          "Value": "sha256-H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.kdneralgu4.styles.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiNotificationApp.styles.css",
+      "Route": "MauiPushNotificationHybrid.z74f1m0qpg.bundle.scp.css",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\MauiPushNotificationHybrid.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1842,11 +1818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=\""
+          "Value": "\"H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1856,21 +1832,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kdneralgu4"
+          "Value": "z74f1m0qpg"
         },
         {
           "Name": "label",
-          "Value": "MauiNotificationApp.styles.css"
+          "Value": "MauiPushNotificationHybrid.bundle.scp.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368="
+          "Value": "sha256-H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.kdneralgu4.styles.css.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pr8kvs4pa3-kdneralgu4.gz",
+      "Route": "MauiPushNotificationHybrid.z74f1m0qpg.bundle.scp.css.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\voehws63o3-z74f1m0qpg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1879,7 +1855,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1625"
+          "Value": "1628"
         },
         {
           "Name": "Content-Type",
@@ -1887,11 +1863,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=\""
+          "Value": "\"9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1909,26 +1885,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kdneralgu4"
+          "Value": "z74f1m0qpg"
         },
         {
           "Name": "label",
-          "Value": "MauiNotificationApp.styles.css.gz"
+          "Value": "MauiPushNotificationHybrid.bundle.scp.css.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc="
+          "Value": "sha256-9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.styles.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pr8kvs4pa3-kdneralgu4.gz",
+      "Route": "MauiPushNotificationHybrid.z74f1m0qpg.styles.css",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\od5lei8gud-z74f1m0qpg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000615006150"
+          "Quality": "0.000613873542"
         }
       ],
       "ResponseHeaders": [
@@ -1938,19 +1914,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1625"
+          "Value": "1628"
         },
         {
           "Name": "ETag",
-          "Value": "\"5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=\""
+          "Value": "\"9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -1966,19 +1942,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=\""
+          "Value": "W/\"H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "z74f1m0qpg"
+        },
+        {
+          "Name": "label",
+          "Value": "MauiPushNotificationHybrid.styles.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368="
+          "Value": "sha256-H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.styles.css",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiNotificationApp.styles.css",
+      "Route": "MauiPushNotificationHybrid.z74f1m0qpg.styles.css",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiPushNotificationHybrid.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1995,27 +1979,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368=\""
+          "Value": "\"H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "z74f1m0qpg"
+        },
+        {
+          "Name": "label",
+          "Value": "MauiPushNotificationHybrid.styles.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-KN9Ycbmcw5uh5zQkyVcAQD2EStzIVUHIly+F4H7C368="
+          "Value": "sha256-H/ypsAJAEfQij+UosmTBjU+xGuaFuM0rSkCS4Dxhq6k="
         }
       ]
     },
     {
-      "Route": "MauiNotificationApp.styles.css.gz",
-      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\pr8kvs4pa3-kdneralgu4.gz",
+      "Route": "MauiPushNotificationHybrid.z74f1m0qpg.styles.css.gz",
+      "AssetFile": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\od5lei8gud-z74f1m0qpg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2024,7 +2016,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1625"
+          "Value": "1628"
         },
         {
           "Name": "Content-Type",
@@ -2032,15 +2024,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc=\""
+          "Value": "\"9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 06:11:07 GMT"
+          "Value": "Sat, 10 May 2025 06:45:18 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2053,8 +2045,16 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "z74f1m0qpg"
+        },
+        {
+          "Name": "label",
+          "Value": "MauiPushNotificationHybrid.styles.css.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-5GvQQNFDxlVV0wrr6fnR8PA8BfzMiIrDfobAmXRoQtc="
+          "Value": "sha256-9ysNV3M/gKYckFpuXW3IE9wFOwE20tfmeVzxDsSW5Lg="
         }
       ]
     }

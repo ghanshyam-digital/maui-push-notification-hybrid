@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MauiNotificationApp
+namespace MauiPushNotificationHybrid
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiNotificationApp.styles.css",
-      "PackagePath": "staticwebassets\\MauiNotificationApp.styles.css"
+      "Id": "D:\\Demo-Notification\\maui-push-notification-hybrid\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiPushNotificationHybrid.styles.css",
+      "PackagePath": "staticwebassets\\MauiPushNotificationHybrid.styles.css"
     },
     {
       "Id": "D:\\Demo-Notification\\maui-push-notification-hybrid\\wwwroot\\css\\app.css",
@@ -21,24 +21,24 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.MauiNotificationApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.MauiPushNotificationHybrid.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.MauiNotificationApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.MauiPushNotificationHybrid.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.MauiNotificationApp.props",
-      "PackagePath": "build\\MauiNotificationApp.props"
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.MauiPushNotificationHybrid.props",
+      "PackagePath": "build\\MauiPushNotificationHybrid.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.MauiNotificationApp.props",
-      "PackagePath": "buildMultiTargeting\\MauiNotificationApp.props"
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.MauiPushNotificationHybrid.props",
+      "PackagePath": "buildMultiTargeting\\MauiPushNotificationHybrid.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.MauiNotificationApp.props",
-      "PackagePath": "buildTransitive\\MauiNotificationApp.props"
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.MauiPushNotificationHybrid.props",
+      "PackagePath": "buildTransitive\\MauiPushNotificationHybrid.props"
     }
   ],
   "ElementsToRemove": []

@@ -1,4 +1,4 @@
-﻿namespace MauiNotificationApp
+﻿namespace MauiPushNotificationHybrid
 {
     public partial class MainPage : ContentPage
     {
